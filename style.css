@@ -50,19 +50,19 @@ header {
   color: #fff;
 }
 .img-photo1 {
-	background-image: url("/Users/tatsuhiro/Desktop/DMM/HTML/htmlchapter10/chapter10_exercise/img/flow01.png");
+	background-image: url("/Users/tatsuhiro/Desktop/DMM/HTML/htmlchapter10/img/flow01.png");
 	background-position: bottom;
 	height: 150px;
 	background-size: cover;
 }
 .img-photo2 {
-	background-image: url("/Users/tatsuhiro/Desktop/DMM/HTML/htmlchapter10/chapter10_exercise/img/flow02.png");
+	background-image: url("/Users/tatsuhiro/Desktop/DMM/HTML/htmlchapter10/img/flow02.png");
 	background-position: bottom;
 	height: 150px;
 	background-size: cover;
 }
 .img-photo3 {
-	background-image: url("/Users/tatsuhiro/Desktop/DMM/HTML/htmlchapter10/chapter10_exercise/img/flow03.png");
+	background-image: url("/Users/tatsuhiro/Desktop/DMM/HTML/htmlchapter10/img/flow03.png");
 	background-position: bottom;
 	height: 150px;
 	background-size: cover;
